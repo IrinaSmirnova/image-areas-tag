@@ -63,22 +63,22 @@ $('#container').imageAreasTag(imagesArr, cb, options)
 
 Object containing data with all selected areas. It will be passed to callback function
 
-{
-	imageId,
-	imageWidth,
-	imageHeight,
-	boundingBoxes: [
 		{
-			id, // ID identifying the area in the plugin
-			x,  // X coordinate (in percents from image width)
-			y,  // Y coordinate (in percents from image height)
-			z,  // Z-index (0 when inactive or 100 when focused)
-			width,  // Width of the area (in percents from image width)
-			height,  // Height of the area (in percents from image height)
-			label  // Array of tags (strings)
+			imageId,
+			imageWidth,
+			imageHeight,
+			boundingBoxes: [
+				{
+					id, // ID identifying the area in the plugin
+					x,  // X coordinate (in percents from image width)
+					y,  // Y coordinate (in percents from image height)
+					z,  // Z-index (0 when inactive or 100 when focused)
+					width,  // Width of the area (in percents from image width)
+					height,  // Height of the area (in percents from image height)
+					label  // Array of tags (strings)
+				}
+			]
 		}
-	]
-}
 
 ## Options
 
