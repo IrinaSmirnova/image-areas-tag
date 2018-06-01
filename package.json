@@ -1,0 +1,34 @@
+{
+  "name": "image-areas-tag",
+  "version": "1.0.2",
+  "description": "jQuery plugin for tagging areas for images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jurgens/hoplabs-image-tag.git"
+  },
+  "keywords": [
+    "tagging",
+    "tag",
+    "images",
+    "areas",
+    "image",
+    "area"
+  ],
+  "author": "Irina Smirnova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jurgens/hoplabs-image-tag/issues"
+  },
+  "dependencies": {
+    "bootstrap": ">= 4.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery-select-areas": ">= 0.1.0",
+    "select2": ">= 4.0.0",
+    "jquery": ">= 1.9.1"
+  },
+  "homepage": "https://github.com/jurgens/hoplabs-image-tag#readme"
+}
