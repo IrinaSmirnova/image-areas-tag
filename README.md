@@ -1,7 +1,7 @@
 # image-areas-tag
 
 
-> A jQuery plugin for selecting and tagging areas for images (https://github.com/jurgens/hoplabs-image-tag).
+> A jQuery plugin for selecting and tagging areas for images (https://github.com/IrinaSmirnova/image-areas-tag).
 
 
 ## Getting started
