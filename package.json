@@ -1,6 +1,6 @@
 {
   "name": "image-areas-tag",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "jQuery plugin for tagging areas for images",
   "main": "index.js",
   "scripts": {
